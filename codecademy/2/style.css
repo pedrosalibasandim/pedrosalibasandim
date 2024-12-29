@@ -120,6 +120,7 @@ nav a, span {
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
+    overflow-x: auto;
 }
 
 #locations h2 {
