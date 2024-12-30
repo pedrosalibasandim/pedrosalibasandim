@@ -129,6 +129,7 @@ nav a, span {
 .locations-content {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .location-content {
