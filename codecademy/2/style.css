@@ -181,7 +181,8 @@ footer {
     #locations {
         width: inherit;
         border: 20px solid rgba(255,255,255,0.9); 
-        padding-right: 40px;
+        padding-right: 50px;
+        padding-left: 50px;
     }
 
     .location-content {
@@ -189,6 +190,7 @@ footer {
         height: 90px; 
         margin: 10px; 
         font-size: 15px;
+        justify-content: center;
     }
 
     .location-content h3, p {
