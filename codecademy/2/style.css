@@ -175,6 +175,8 @@ footer {
 @media (max-width: 1024px) and (orientation: landscape) {
     #locations {
         width: inherit;
+        border: 20px solid rgba(255,255,255,0.9); 
+        padding-right: 40px;
     }
 
     .location-content {
