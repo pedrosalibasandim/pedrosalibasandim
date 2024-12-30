@@ -127,7 +127,7 @@ nav a, span {
 }
 
 .location-content {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
     align-items: center;
     flex-direction: column;
