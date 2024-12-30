@@ -126,11 +126,15 @@ nav a, span {
     margin-bottom: 15px;
 }
 
+.locations-content {
+    display: flex;
+    justify-content: center;
+}
+
 .location-content {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
     flex-direction: column;
     background-color: black;
     width: 300px;
