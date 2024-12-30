@@ -1,1 +1,1 @@
-not on landscape
+both on portrait and landscape
