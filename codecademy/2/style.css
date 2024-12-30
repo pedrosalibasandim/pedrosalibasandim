@@ -170,3 +170,21 @@ footer {
         text-align: right;
     }  
 }
+
+@media (max-width: 768px) and (orientation: landscape) {
+    #locations {
+        width: inherit;
+    }
+
+    .location-content {
+        width: 80%; 
+        height: 90px; 
+        margin: 10px; 
+        font-size: 15px;
+    }
+
+    .location-content h3, p {
+        line-height: normal;
+        text-align: right;
+    }  
+}
